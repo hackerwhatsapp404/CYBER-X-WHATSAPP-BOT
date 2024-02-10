@@ -59,7 +59,7 @@ If you have any feedback, please reach out to us at darkalphaxteamofficial@gmail
 
 To run this project, you will need to add the following environment variables to your .env file
 
-`SESSION_ID`
+`SESSION_ID`"cyber-x@;;;9dkGBSjL#DUvWhwudsHe5oDGcWML0qx72kunC_6HrOGc0ImuJkiU"
 
 `HEROKU_APP_NAME`
 
@@ -68,7 +68,7 @@ To run this project, you will need to add the following environment variables to
 
 ## Script 
 
-If you need this non Obb Script or Make you own script with me ( Money propose Only ) - [DARK_ALPHA](https://wa.me/711421243)
+If you need this non Obb Script or Make you own script with me ( Money propose Only ) - [DARK_ALPHA](https://wa.me/03153637458)
 
 
 
