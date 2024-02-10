@@ -11,7 +11,7 @@
         "Multi Device"
     ],
     "env": {
-        "SESSION_ID": {
+        "SESSION_ID" cyber-x@;;;9dkGBSjL#DUvWhwudsHe5oDGcWML0qx72kunC_6HrOGc0ImuJkiU": {
             "description": "Type the Session-ID you got from scaning QR",
             "required": true,
             "value": ""
@@ -21,7 +21,7 @@
             "required": true,
             "value": ""
         },
-        "HEROKU_APP_NAME": {
+        "HEROKU_APP_NAME": { X WHATSAPP BOT }
             "description": "Enter you pushed app Name",
             "required": true,
             "value": ""
